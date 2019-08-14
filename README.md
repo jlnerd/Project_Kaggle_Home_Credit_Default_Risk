@@ -48,7 +48,7 @@ There is one row for each previous application related to loans in our data samp
     * This file contains descriptions for the columns in the various data files.
     
 <center>
-<img src = "figures/Circuit_Diagram_w_colors.png" width = "400">
+<img src = "figures/home_credit.png" width = "600">
 </center>
 
 ## Evaluation
